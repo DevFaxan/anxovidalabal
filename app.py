@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import pygwalker as pyg
 import streamlit.components.v1 as components
 from streamlit_option_menu import option_menu
 
